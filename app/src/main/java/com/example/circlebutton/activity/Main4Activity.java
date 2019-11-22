@@ -1,8 +1,10 @@
-package com.example.circlebutton;
+package com.example.circlebutton.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.circlebutton.R;
 
 public class Main4Activity extends AppCompatActivity {
 

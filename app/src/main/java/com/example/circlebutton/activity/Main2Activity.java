@@ -1,9 +1,11 @@
-package com.example.circlebutton;
+package com.example.circlebutton.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.widget.TextView;
+
+import com.example.circlebutton.R;
 
 public class Main2Activity extends AppCompatActivity {
 
